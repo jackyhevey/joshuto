@@ -27,7 +27,7 @@ chrono = "^0"
 clap = { version = "^4", features = ["derive"] }
 clap_complete = "^4"
 colors-transform = "^0"
-dirs = "^6"
+dirs = "^7"
 globset = "^0"
 image = "^0.25"
 lazy_static = "^1"
